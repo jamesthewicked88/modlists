@@ -1,0 +1,47 @@
+[
+  {
+	"$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Cyberpunk 2079 Project Liberation",
+    "description": "Cyberpunk2079 Project Liberation is a mod-list that touches every aspect of 2077 making it my own personal 2.0/DLC/Sequel like. It is an ongoing processing looking for users familiar with Mo2 and modding. Feedback is welcome, looking for help to make improvements..",
+    "author": "jamesthewicked88",
+    "maintainers": [
+      "github/jamesthewicked88"
+    ],
+    "game": "cyberpunk2077",
+    "official": false,
+    "tags": [
+	  "Total Overhaul",
+      "Combat Overhaul",
+      "Hardcore",
+      "DLC Required",
+      "Survival"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/jamesthewicked88/modlists/blob/main/Cyberpunk%202077SamuraiLogo.png",
+      "readme": "https://github.com/jamesthewicked88/modlists/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Cyberpunk2079.wabbajack_7d660a63-a8e1-4dc7-9b75-c329098f0ea2",
+      "machineURL": "Cyberpunk2079ProjectLiberation",
+      "discordURL": "https://discord.gg/yMyPuWGc",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+	  "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "B0V9VmLFSyY=",
+      "Size": 42531174,
+      "NumberOfArchives": 1224,
+      "SizeOfArchives": 30608798613,
+      "NumberOfInstalledFiles": 10991,
+      "SizeOfInstalledFiles": 31016066072,
+      "TotalSize": 61624864685
+    },
+    "version": "1.0",
+    "dateCreated": "1977-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-02T11:50:16.8265352Z",
+    "repositoryName": ""
+  }
+]
