@@ -1,4 +1,4 @@
-# modlists
+# Cyberpunk2079-Project-Liberation-Modlist
 First release - meant for Mo2 users familiar with modding and using Wabbajack -
 I will have a better install guide later when things progress
 
