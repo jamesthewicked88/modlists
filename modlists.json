@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/jamesthewicked88/modlists/refs/heads/main/Cyberpunk%202077SamuraiLogo.png",
+      "image": "https://github.com/jamesthewicked88/modlists/blob/main/Cyberpunk%202077SamuraiLogo.png",
       "readme": "https://github.com/jamesthewicked88/modlists/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Cyberpunk2079.wabbajack_7d660a63-a8e1-4dc7-9b75-c329098f0ea2",
       "machineURL": "Cyberpunk2079ProjectLiberation",
@@ -31,13 +31,13 @@
     },
     "download_metadata": {
 	  "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "B0V9VmLFSyY=",
-      "Size": 42531174,
-      "NumberOfArchives": 1224,
-      "SizeOfArchives": 30608798613,
-      "NumberOfInstalledFiles": 10991,
-      "SizeOfInstalledFiles": 31016066072,
-      "TotalSize": 61624864685
+      "Hash": "xnoY/j+oYJA=",
+      "Size": 42928979,
+      "NumberOfArchives": 1222,
+      "SizeOfArchives": 30608061881,
+      "NumberOfInstalledFiles": 10978,
+      "SizeOfInstalledFiles": 31010775201,
+      "TotalSize": 61618837082
     },
     "version": "1.0",
     "dateCreated": "1977-01-01T00:00:00Z",
