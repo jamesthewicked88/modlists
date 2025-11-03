@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://github.com/jamesthewicked88/modlists/blob/main/Cyberpunk%202077SamuraiLogo.png",
+      "image": "https://raw.githubusercontent.com/jamesthewicked88/modlists/refs/heads/main/Cyberpunk%202077SamuraiLogo.png",
       "readme": "https://github.com/jamesthewicked88/modlists/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Cyberpunk2079.wabbajack_7d660a63-a8e1-4dc7-9b75-c329098f0ea2",
       "machineURL": "Cyberpunk2079ProjectLiberation",
