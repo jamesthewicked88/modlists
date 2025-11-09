@@ -119,6 +119,7 @@ Navigate to you \Wabbajack\Wabbajack folder and select Cyberpunk2079ProjectLiber
 - this(Mo2) to launch 2077 & the mod pack from later -
 Close the wabbajack program
 
+- Ref https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html -
 
 !!!!ATTENTION-MANUAL-INSTALLATION!!!!
 
