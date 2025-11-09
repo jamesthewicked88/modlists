@@ -48,13 +48,13 @@ CYBERPUNK2077 GRAPHICS SETTINGS----REF-HARDWARE-UNBOXED
 
 I WOULDN'T USE MY MODLIST WITH LESS THAN 16GB VRAM(1440p) - 12GB VRAM(1080p)
 
-Gonk 1080p 60fps - R5 3600X RTX3060 12GB needed for Full ModPack
+- Gonk 1080p 60fps - R5 3600X RTX3060 12GB needed for Full ModPack -
 
-Choom 1440p 60fps R5 5600X & RTX 4070ti-Super 16GB
-Choom 1440p 60fps i5 10600K & RX 7800XT 16GB
+- Choom 1440p 60fps R5 5600X & RTX 4070ti-Super 16GB -
+- Choom 1440p 60fps i5 10600K & RX 7800XT 16GB -
 
-Preem 4k R7 7800X3D & RTX 4090
-Preem 4k i7 12700K & RX 7900XTX
+- Preem 4k R7 7800X3D & RTX 4090 -
+- Preem 4k i7 12700K & RX 7900XTX -
 
 
 VANILLA BACKUPS----JUST INCASE
@@ -81,20 +81,20 @@ Download the Cyberpunk2079 Project Liberation.zip file from the downloads sectio
 Create a folder on your drive called Wabbajack (example: C:\Wabbajack)
 Inside the Wabbajack Folder, create 3 new folders - called
 
-Wabbajack
-Cyberpunk2079
-WabbajackDownloads
+- Wabbajack -
+- Cyberpunk2079 -
+- WabbajackDownloads -
 
 Example:
 
-C:\Wabbajack\Wabbajack
-C:\Wabbajack\Cyberpunk2079
-C:\Wabbajack\WabbajackDownloads
+- C:\Wabbajack\Wabbajack -
+- C:\Wabbajack\Cyberpunk2079 -
+- C:\Wabbajack\WabbajackDownloads -
 
 Place the Wabbajack.exe you downloaded inside
-C:\Wabbajack\Wabbajack
+- C:\Wabbajack\Wabbajack -
 Extract the Cyberpunk2079 ProjectLiberation.zip in the same folder
-C:\Wabbajack\Wabbajack
+- C:\Wabbajack\Wabbajack- 
 
 Wabbajack-Checklist
 
@@ -103,12 +103,12 @@ From main page, go to settings in the bottom left corner
 Log into Nexus Mods
 
 
--For Nexus Mod installation-
+- For Nexus Mod installation -
 
 Change the installation location to your Cyberpunk2079 Project Liberation Folder
-C:\Wabbajack\Cyberpunk2079
+- C:\Wabbajack\Cyberpunk2079 -
 Change the downloads location to your Wabbajack Downloads Folder
-C:\Wabbajack\WabbajackDownloads
+- C:\Wabbajack\WabbajackDownloads -
 
 From the main page, click on browse lists and tick non featured lists, then click on install from disk
 Navigate to you \Wabbajack\Wabbajack folder and select Cyberpunk2079ProjectLiberation.wabbajack
