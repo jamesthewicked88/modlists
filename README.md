@@ -93,7 +93,7 @@ Example:
 
 Place the Wabbajack.exe you downloaded inside
 - C:\Wabbajack\Wabbajack -
-Extract the Cyberpunk2079 ProjectLiberation.zip in the same folder
+- Extract the Cyberpunk2079 ProjectLiberation.zip in the same folder -
 - C:\Wabbajack\Wabbajack- 
 
 Wabbajack-Checklist
