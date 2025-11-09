@@ -15,14 +15,14 @@ settings for you PC run benchmark optional – after make sure the cross-play op
 CYBERPUNK2077 GRAPHICS SETTINGS----REF-HARDWARE-UNBOXED
 (https://www.youtube.com/watch?v=B03_Aa5NwIY)
 
-Texture Quality - High
-Upscaler- Your choice or native
-Motion Blur - Off
-Contact Shadows - On
-Improved Facial Lighting Geometry - On
-Anisotropy- 16
-Local Shadow Quality - Med
-Cascaded Shadows Range - High
+- Texture Quality - High -
+- Upscaler- Your choice or native -
+- Motion Blur - Off -
+- Contact Shadows - On -
+- Improved Facial Lighting Geometry - On -
+- Anisotropy - 16 -
+- Local Shadow Quality - Med -
+- Cascaded Shadows Range - High -
 Cascaded Shadows Resolution - High
 Distant Shadows Resolution - High
 Volumetic Fog Resolution - Med
