@@ -23,28 +23,28 @@ CYBERPUNK2077 GRAPHICS SETTINGS----REF-HARDWARE-UNBOXED
 - Anisotropy - 16 -
 - Local Shadow Quality - Med -
 - Cascaded Shadows Range - High -
-Cascaded Shadows Resolution - High
-Distant Shadows Resolution - High
-Volumetic Fog Resolution - Med
-Volumetic Cloud Quality - Med
-Max Dynamic Details - Ultra
-Screen Space Reflections - Med
-Subsurface Space Reflections Quality - High
-Ambient Occlusion - High
-Color Precision - Med
-Mirror Quality - High
-Level of Detail - High
-Crowd Density - High
-RT- your choice (I use RT Med Reflection and Local Shadows)
-Vysnc- Off - set according to your display refresh rate or target fps
+- Cascaded Shadows Resolution - High -
+- Distant Shadows Resolution - High -
+- Volumetic Fog Resolution - Med -
+- Volumetic Cloud Quality - Med -
+- Max Dynamic Details - Ultra -
+- Screen Space Reflections - Med -
+- Subsurface Space Reflections Quality - High -
+- Ambient Occlusion - High -
+- Color Precision - Med -
+- Mirror Quality - High -
+- Level of Detail - High -
+- Crowd Density - High -
+- RT- your choice (I use RT Med Reflection and Local Shadows) -
+- Vysnc- Off - set according to your display refresh rate or target fps- 
 
-Be sure to have latest .net runtime
-Recommended SDKx64
-https://dotnet.microsoft.com/en-us/download
+- Be sure to have latest .net runtime- 
+- Recommended SDKx64- 
+- https://dotnet.microsoft.com/en-us/download -
 
-Have the latest Visual C++ Redistributable
-Latest supported (2015–2022)
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+- Have the latest Visual C++ Redistributable -
+- Latest supported (2015–2022) -
+- https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 -
 
 I WOULDN'T USE MY MODLIST WITH LESS THAN 16GB VRAM(1440p) - 12GB VRAM(1080p)
 
