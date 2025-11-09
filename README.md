@@ -105,47 +105,47 @@ Log into Nexus Mods
 
 - For Nexus Mod installation -
 
-Change the installation location to your Cyberpunk2079 Project Liberation Folder
+- Change the installation location to your Cyberpunk2079 Project Liberation Folder -
 - C:\Wabbajack\Cyberpunk2079 -
-Change the downloads location to your Wabbajack Downloads Folder
+- Change the downloads location to your Wabbajack Downloads Folder -
 - C:\Wabbajack\WabbajackDownloads -
 
 From the main page, click on browse lists and tick non featured lists, then click on install from disk
 Navigate to you \Wabbajack\Wabbajack folder and select Cyberpunk2079ProjectLiberation.wabbajack
 
-Press the Green Start Button
-Once the install is finished, click on create desktop shortcut button
-Find the shortcut on the desktop place it where you like - we will use
-this(Mo2) to launch 2077 & the mod pack from later
+- Press the Green Start Button -
+- Once the install is finished, click on create desktop shortcut button -
+- Find the shortcut on the desktop place it where you like - we will use -
+- this(Mo2) to launch 2077 & the mod pack from later -
 Close the wabbajack program
 
 
 !!!!ATTENTION-MANUAL-INSTALLATION!!!!
 
 We will manually install Cyber Engine Tweaks and RED4ext into the game folder
-Example of game folder - D:\SteamLibrary\steamapps\common\Cyberpunk 2077
+- Example of game folder - D:\SteamLibrary\steamapps\common\Cyberpunk 2077 -
 
-Manually download the latest Cyber Engine Tweaks & RED4ext
-https://www.nexusmods.com/cyberpunk2077/mods/107
-https://www.nexusmods.com/cyberpunk2077/mods/2380
+- Manually download the latest Cyber Engine Tweaks & RED4ext -
+- https://www.nexusmods.com/cyberpunk2077/mods/107 -
+- https://www.nexusmods.com/cyberpunk2077/mods/2380 -
 
-Unzip the folder Cyber Engine Tweaks - take the bin folder and drop into the game folder
-Unzip the folder RED4ext - take the bin & red4ext folders and drop them into the game folder
+- Unzip the folder Cyber Engine Tweaks - take the bin folder and drop into the game folder -
+- Unzip the folder RED4ext - take the bin & red4ext folders and drop them into the game folder -
 
-Understanding Mo2 w/2077
+- Understanding Mo2 w/2077 -
 
 https://www.youtube.com/watch?v=6J-rl7OhWbA
 
-Start Up with Mo2 & 2077
+- Start Up with Mo2 & 2077 -
 
-RunMo2 from the desktop shortcut
+- RunMo2 from the desktop shortcut -
 In the top right hand corner of Mo2, click the drop down and make sure Cyberpunk 2077 is selected
 
--Attention-
-The first launch will take a little longer since REDmod will run and deploy a few mods
-Hit the Run Button
-During this time Cyber Engine Tweaks will ask you to set a keybind for it - I use the til'd key `
-Once you get to the splash screen enjoy the scene and song for a few moments then
+- Attention -
+- The first launch will take a little longer since REDmod will run and deploy a few mods -
+- Hit the Run Button -
+- During this time Cyber Engine Tweaks will ask you to set a keybind for it - I use the til'd key ` -
+- Once you get to the splash screen enjoy the scene and song for a few moments -
 Hit Start & Enjoy Chooms
 
 - After gameplay sesssions move the overwrite contents into this mod - 
