@@ -6,10 +6,10 @@ Cyberpunk 2077 Modding Tips
 MUST READ ALL OF THIS
 
 
-Be sure to install Steam/GoG and the game outside of C:\Program Files
-Download REDmod from Steam or GoG – open the 2077 launcher and enable REDmod
-Launch the game once before modding to get the best vanilla graphics and
-settings for you PC run benchmark optional – after make sure the cross-play option in settings – game-play is disable – exit game and disable cloud saves - we will back those up below
+- Be sure to install Steam/GoG and the game outside of C:\Program Files -
+- Download REDmod from Steam or GoG – open the 2077 launcher and enable REDmod -
+- Launch the game once before modding to get the best vanilla graphics and -
+- settings for you PC run benchmark optional – after make sure the cross-play option in settings – game-play is disable – exit game and disable cloud saves - we will back those up below -
 
 
 CYBERPUNK2077 GRAPHICS SETTINGS----REF-HARDWARE-UNBOXED
