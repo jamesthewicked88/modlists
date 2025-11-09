@@ -2,6 +2,12 @@
 First release - meant for Mo2 users familiar with modding and using Wabbajack -
 I will have a better install guide later when things progress
 
+- Discord -
+https://discord.gg/yMyPuWGc
+
+- Nexus -
+https://www.nexusmods.com/cyberpunk2077/mods/25363?tab=description
+
 Cyberpunk 2077 Modding Tips
 MUST READ ALL OF THIS
 
