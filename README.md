@@ -3,7 +3,7 @@ First release - meant for Mo2 users familiar with modding and using Wabbajack -
 I will have a better install guide later when things progress
 
 - Discord -
-https://discord.gg/yMyPuWGc
+https://discord.gg/sv2t7G77
 
 - Nexus -
 https://www.nexusmods.com/cyberpunk2077/mods/25363?tab=description
