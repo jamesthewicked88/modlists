@@ -27,19 +27,19 @@
       "download": "https://authored-files.wabbajack.org/Cyberpunk2079.wabbajack_7d660a63-a8e1-4dc7-9b75-c329098f0ea2",
       "machineURL": "Cyberpunk2079ProjectLiberation",
       "discordURL": "https://discord.gg/yMyPuWGc",
-      "websiteURL": ""
+      "websiteURL": "https://www.nexusmods.com/cyberpunk2077/mods/25363?tab=description"
     },
     "download_metadata": {
 	  "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "BEEo5nxzr2w=",
-      "Size": 42577194,
-      "NumberOfArchives": 1226,
-      "SizeOfArchives": 30712339798,
-      "NumberOfInstalledFiles": 11010,
-      "SizeOfInstalledFiles": 31039064847,
-      "TotalSize": 61751404645
+      "Hash": "e+B/qbWB2sA=",
+      "Size": 42489004,
+      "NumberOfArchives": 1252,
+      "SizeOfArchives": 31097089194,
+      "NumberOfInstalledFiles": 11306,
+      "SizeOfInstalledFiles": 31492146874,
+      "TotalSize": 62589236068
     },
-    "version": "1.0",
+    "version": "1.1",
     "dateCreated": "1977-01-01T00:00:00Z",
     "dateUpdated": "2025-11-02T11:50:16.8265352Z",
     "repositoryName": ""
